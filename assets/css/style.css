@@ -4,3 +4,25 @@
 ul{
     padding-right: 80px;
 }
+
+/* Se alinea texto al centro para todos los h1 */
+h1{
+    text-align: center;
+}
+
+
+
+/* Se agrega estilo de fondo y letras a seccion ¿Quienes Somos? */
+#quienessomos{
+    background-color: black;
+    color: white;
+}
+
+/* Se genera estilo para los iconos Font Awesome de la seccion ¿Quienes Somos?  */
+#quienessomos i{
+    font-size: 28px;
+    padding-left: 50%;
+    padding-right: 45%;
+    background-color: rgb(0, 200, 255);
+    border-width: 200px;  
+}
